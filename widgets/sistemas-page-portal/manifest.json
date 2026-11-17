@@ -1,0 +1,21 @@
+{
+  "name": "sistemas-page-portal",
+  "label": "Sistemas de Abastecimento",
+  "type": "widget",
+  "version": "1.17.0",
+  "exbVersion": "1.17.0",
+  "author": "SIHS",
+  "description": "Dashboard dos sistemas de abastecimento de água da CERB, no padrão visual do Portal da Água.",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "coverLayoutBackground": true,
+    "supportAutoSize": true
+  },
+  "dependency": "jimu-arcgis",
+  "translatedLocales": ["en"],
+  "defaultSize": {
+    "width": 1440,
+    "height": 920
+  }
+}
